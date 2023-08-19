@@ -1,7 +1,7 @@
 from langchain import PromptTemplate
 import os
 from langchain.llms import OpenAI
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'YOUR API KEY'
 
 # creating LLM (will try OpenAI, modelname= gpt-3.5-turbo)
 llm = OpenAI(model_name = "gpt-3.5-turbo")
