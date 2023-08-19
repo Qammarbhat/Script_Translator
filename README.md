@@ -60,6 +60,6 @@ Contributions are welcome! If you'd like to contribute to this project contact m
 
 If you have any questions or feedback, feel free to contact me:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/qammarbhat/)
+- **LinkedIn**: [Qammar Uz Zamman](https://www.linkedin.com/in/qammarbhat/)
 - **Email**: qammarbhat@bgsbu.ac.in
 
